@@ -4,6 +4,10 @@ import cc_dat_utils
 #Use cc_data_utils.make_cc_data_from_dat() to load pfgd_test.dat
 #print the resulting data
 
+print("hi")
+print(cc_dat_utils.make_cc_data_from_dat("data/pfgd_test.dat"))
+
+
 
 #Part 2
 input_json_file = "data/test_data.json"
